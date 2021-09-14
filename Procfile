@@ -1,2 +1,2 @@
-heroku ps:scale web=1
-web: python checkpass2.py
+heroku ps:python worker=1
+worker: python checkpass2.py
