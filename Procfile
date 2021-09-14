@@ -1,1 +1,1 @@
-web : gunicorn app:checkpass.py
+web : gunicorn app:checkpass
