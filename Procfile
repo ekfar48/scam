@@ -1,2 +1,2 @@
-heroku ps:python web=1
+heroku ps:scale web=1
 web: python checkpass.py
